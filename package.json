@@ -14,5 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "parcel": "^2.14.4"
+  },
+  "devDependencies": {
+    "pnotify": "^5.2.0"
   }
 }
